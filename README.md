@@ -12,7 +12,7 @@ dotfiles/software for vscode, terminal
 
 [keybindings](https://github.com/eosiswastaken/dotfiles/blob/main/vscode/keybindings.json)
 
-theme : 'Material Theme Ocean'
+[theme](https://github.com/material-ocean/Material-Ocean)
 
 --
 
