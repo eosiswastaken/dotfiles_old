@@ -12,6 +12,8 @@ dotfiles/software for vscode, terminal
 
 [keybindings](https://github.com/eosiswastaken/dotfiles/blob/main/vscode/keybindings.json)
 
+theme : 'Material Theme Ocean'
+
 --
 
 `terminal`
